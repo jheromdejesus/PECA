@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Nuvem\\Pecanuvem\\" : "src"
+		}
+	},
+	"name" : "nuvem/pecanuvem",
+	"require" : {
+		"php" : ">=5.3"
+	}
+}
