@@ -1,0 +1,125 @@
+.transactions {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_trans.jpg) !important
+}
+
+.masterfiles {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_master.jpg) !important
+}
+
+.reports {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_reports.jpg) !important
+}
+
+.batchprocess {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_batch.jpg) !important
+}
+
+.utilities {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_util.jpg) !important
+}
+
+.reference {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_ref.jpg) !important
+}
+
+.security {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_security.jpg) !important
+}
+
+.online {
+	background: #D6E3F2;
+    border-style: solid;
+    border-color:#DAE6F4 #99bbe8 #99bbe8 #DAE6F4;
+    border-width: 1px;
+    margin:-2px -2px 0;
+    color:#15428b;
+    font:bold 10px tahoma,arial,verdana,sans-serif;
+    display:block;
+    padding:3px;
+    height:40;
+    width:125;
+    background-image:url(/images/menu_online.jpg) !important
+}
+
+.transactionnav { background-image:url(/images/icon_bullet.gif) !important; }
+
+.referencetab { background-image:url(/images/reference.gif) !important;}
+.transactiontab { background-image:url(/images/icon_calendar.gif) !important;}
+
